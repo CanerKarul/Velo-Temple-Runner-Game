@@ -56,7 +56,7 @@
 
 🛠 Temel Mekanikler:
 
-* <b>Hareket Kontrolü</b>: Oyuncular, karakterin hareketini klavye veya dokunmatik ekran girişleriyle kontrol edebilirler. Sağa ve sola dönme, zıplama ve slayt yapma gibi hareketler mümkündür.
+* <b>Hareket Kontrolü</b>: Oyuncular, karakterin hareketini klavye veya dokunmatik ekran girişleriyle kontrol edebilirler. Sağa ve sola dönme, zıplama ve kayma gibi hareketler mümkündür.
 
 * <b>Engeller ve Altınlar</b>: Oyuncular, yoldaki engelleri aşmalı ve altınları toplamalıdır. Engellere çarpma oyuncunun ölümüne neden olabilirken, altınlar skor artışı sağlar.
 
