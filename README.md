@@ -67,10 +67,19 @@
 <br>
 
 💡Bilgisayar Kontrolleri:
-- Sağ-Sol hareketleri: A-D veya Sağ-Sol yön tuşları
-- Zıplama: Boşluk (Space) Tuşu
-- Kayma: Aşağı yön tuşu
-- Köşelerde Dönme Tuşları: Sol Köşe: F tuşu - Sağ Köşe: G tuşu 
+- <b>Sağ-Sol hareketleri: A-D veya Sağ-Sol yön tuşları</b>
+- ![Resim1](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/f32634b1-5dde-4ba9-b8ab-e5cd7b0118a4)
+- <b>Zıplama: Boşluk (Space) Tuşu</b>
+- ![Resim2](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/ee1f36d3-68a9-4603-99b3-d2b95d7489df)
+
+- <b>Kayma: Aşağı yön tuşu</b>
+- ![Resim5](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/62546902-3a1e-43de-8fc4-79813992e1df)
+
+- <b>Köşelerde Dönme Tuşları: Sol Köşe: F tuşu - Sağ Köşe: G tuşu</b>
+- ![Resim3](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/48aaa303-96af-475c-966a-a8ac80995bb4)
+- ![Resim4](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/fc5adfa3-03e8-4b5d-84f9-b8ac66a9e1af)
+
+
   
 🚀 Projemi çalışırken görmek için: [Google Drive](https://drive.google.com/file/d/1hywigbMThB5fb8I2jUGebDhsoQsp9t4M/view?usp=drive_link)
 
