@@ -83,6 +83,10 @@
   
 🚀 Projemi çalışırken görmek için: [Google Drive](https://drive.google.com/file/d/1hywigbMThB5fb8I2jUGebDhsoQsp9t4M/view?usp=drive_link)
 
+
+
+https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/b56fdd5d-e2f5-4ed9-90ed-8220d24b878f
+
 ![image](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/e42751bf-a81c-447f-9f27-ebf49fe426b6)
 ![image](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/2a88b2b5-1819-4b39-b2c1-d89f78370bf4)
 ![image](https://github.com/CanerKarul/Velo-Temple-Runner-Game/assets/100365204/94c2e3ab-c962-42d8-83ad-394229023886)
